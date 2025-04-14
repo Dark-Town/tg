@@ -12,8 +12,6 @@
         "url": "git+https://github.com/Dark-Town/tg-bo.git"
     },
     "dependencies": {
-    "@adiwajshing/baileys": "github:princerudh/Bailey",
-    "@adiwajshing/keyed-db": "^0.2.4",
         "node-telegram-bot-api": "^0.65.1",
         "express": "^4.17.1",
         "axios": "^0.27.2",
