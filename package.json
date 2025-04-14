@@ -15,7 +15,6 @@
         "node-telegram-bot-api": "^0.70.0", // latest version as of now
         "express": "^4.18.2", // latest version as of now
         "axios": "^1.3.5", // latest version as of now
-        "file-type": "^17.0.0", // latest version as of now
-        "node-fetch": "^3.3.1" // latest version as of now
+        "file-type": "^17.0.0", // latest version as of n
     }
 }
